@@ -9,9 +9,13 @@ This project demonstrates my ability to tackle complex SQL problems in a busines
 
  Tables:
  restaurants - Stores restaurant data.
+ 
  food - Contains food details.
+ 
  menu - menu data.
+ 
  orders - Records of customer orders.
+ 
  users - Details of users deliveries.
 
 # Key SQL Tasks:
