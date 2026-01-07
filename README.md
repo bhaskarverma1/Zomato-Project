@@ -30,4 +30,7 @@ The analysis uncovered significant insights regarding customer behavior, restaur
 
 
 # ERD (Entity Relationship Diagram)
-<img width="888" height="532" alt="Screenshot 2026-01-07 170412" src="https://github.com/user-attachments/assets/263a4df9-5a22-4a8b-835d-86a5015c72c1" />
+<img width="888" height="532" alt="Screenshot 2026-01-07 170412" src="https://github.com/user-attachments/assets/263a4df9-5a22-4a8b-835d-86a5015c72c1" />  
+
+# Conclusion
+This project showcases the use of SQL to solve real-world business problems for a food delivery company. Through detailed data analysis, insights were derived that can help optimize operations, improve customer retention, and increase restaurant revenue. 
