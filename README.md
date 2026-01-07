@@ -30,7 +30,9 @@ Business Problem Solving: 20 advanced SQL queries solved specific business probl
 The analysis uncovered significant insights regarding customer behavior, restaurant performance, and order trends. For a stakeholder in the marketing or operations department, three key takeaways are:
 
 1.The peak ordering times occur between 18:00 and 20:00, indicating optimal hours for promotions.
+
 2.High-value customers (who have spent more than 100K) represent a small but critical segment, contributing disproportionately to total revenue.
+
 3.Non-delivered orders remain a challenge, especially for restaurants in major cities, where operational efficiencies need to be improved.
 
 
