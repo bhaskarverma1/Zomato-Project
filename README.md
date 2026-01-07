@@ -8,6 +8,7 @@ This project demonstrates my ability to tackle complex SQL problems in a busines
  > Database: zomato
 
  Tables:
+ 
  restaurants - Stores restaurant data.
  
  food - Contains food details.
